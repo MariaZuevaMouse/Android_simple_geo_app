@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myGeoposition</string>
+    <string name="acc">Accuracy: </string>
+    <string name="lat">Latitude: </string>
+    <string name="lng">Longitude: </string>
+    <string name="alt">Altitude: </string>
+    <string name="spd">Speed: </string>
+    <string name="addr">Address: \n</string>
+    <string name="msg">Enable LOCATION ACCESS in settings</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moё местоположение</string>
+    <string name="acc">Точность: </string>
+    <string name="lat">Широта: </string>
+    <string name="lng">Долгота: </string>
+    <string name="alt">Высота: </string>
+    <string name="spd">Скорость: </string>
+    <string name="addr">Адрес: \n</string>
+    <string name="msg">Включите LOCATION ACCESS в настройках</string>
+</resources>
